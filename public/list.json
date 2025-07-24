@@ -1,0 +1,90 @@
+[
+{
+    "id": 1,
+    "name": "Story Book",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 0,
+    "category": "Free",
+    "image": "./bookCover.png"
+  },
+  {
+    "id": 2,
+    "name": "Mettle Book",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 45,
+    "category": "Free",
+    "image": "./bookCover.png"
+  },
+  {
+    "id": 3,
+    "name": "Histoy Book",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 0,
+    "category": "song",
+    "image": "./bookCover.png"
+  },
+  {
+    "id": 4,
+    "name": "Story Book of ",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 10,
+    "category": "movie",
+    "image": "./bookCover.png"
+  },
+  {
+    "id": 5,
+    "name": "Story Book",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 89,
+    "category": "movies",
+    "image": "./bookCover.png"
+  },
+  {
+    "id": 6,
+    "name": "Patra Book",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 0,
+    "category": "Fiction",
+    "image": "./bookCover.png"
+  },
+  {
+    "id": 7,
+    "name": "Story Book",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 0,
+    "category": "Free",
+    "image": "./bookCover.png"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 0,
+    "category": "Free",
+    "image": "./bookCover.png"
+  },
+  {
+    "id": 9,
+    "name": "Story Book",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 0,
+    "category": "Free",
+    "image": "./bookCover.png"
+  },
+  {
+    "id": 10,
+    "name": "Story Book",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 0,
+    "category": "Free",
+    "image": "./bookCover.png"
+  },
+  {
+    "id": 11,
+    "name": "Story Book",
+    "title": "lorem ipsum dolor sit amet",
+    "price": 0,
+    "category": "Free",
+    "image": "./bookCover.png"
+  }
+]
